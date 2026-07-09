@@ -6,6 +6,7 @@ Small, tested Python tools for document and data automation.
 |---|---|
 | [pdf-table-extractor](pdf-table-extractor/) | PDF tables → clean Excel, one sheet per table |
 | [data-cleaner](data-cleaner/) | Messy CSV → clean CSV + JSON data-quality report |
+| [jats-converter](jats-converter/) | Journal manuscript (DOCX) → JATS 1.3 XML for DOAJ/PubMed indexing |
 | [latex-samples](latex-samples/) | Anonymized excerpts of real journal-article layouts (XeLaTeX, custom style) |
 
 Every project ships with a test suite (pytest) and a one-command CLI.
